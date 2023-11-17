@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martins</h1>
 <h3 align="center">A passionate full stack java developer from Lagos Nigeria</h3>
 
-- 🔭 I’m currently working on **banking apps using spring framework**
-
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently writing codes using **java**
 
 - 👯 I’m looking to collaborate on **all java related projects that can push me beyond what i already know**
 
